@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service definition for ZC_YLIBROS_LOG'
+define service ZUI_YLIBROS_LOG_O4 {
+  expose ZC_YLIBROS_LOG as Libros;
+}
